@@ -98,5 +98,3 @@ En el archivo `ios/Runner/Info.plist`, añade las siguientes claves dentro del `
 <img width="220" alt="WhatsApp Image 2026-06-07 at 6 42 55 PM (1)" src="https://github.com/user-attachments/assets/6abeea0e-5732-48a3-b250-9fe1f428db12" />
 <img width="220" alt="WhatsApp Image 2026-06-07 at 6 42 55 PM" src="https://github.com/user-attachments/assets/a1111ade-3db6-485d-b7e3-c4005aa1ed72" />
 </p>
----
-Hecho con ❤️ para promover el turismo en Ecuador.
